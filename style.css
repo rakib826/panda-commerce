@@ -22,3 +22,55 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+.cat1, .cat2, .cat3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat1{
+  background-color: orange;
+}
+.cat2{
+  background-color: orchid;
+}
+.cat3{
+  background-color: lightblue;
+}
+.categories h1{
+  color: whitesmoke;
+}
+.categories img{
+  width: 100px;
+}
+.card-footer{
+  background-color: #fceae8;
+  border-top: none;
+}
+.card{
+  border: none;
+  box-shadow: 7px 7px 15px lightgray;
+  border-radius: 10px;
+}
+#subscribe{
+  height: 300px;
+}
+#subscribe h6{
+  color: gray;
+}
+.subscribe-button{
+  border: none;
+  border-radius: 7px;
+  color: white;
+  background-color: #ff136f;
+  padding: 3px 10px;
+}
+.subscribe-mail{
+  width: 300px;
+  border:none;
+  background-color: aliceblue;
+  border-radius: 7px;
+  padding: 3px 20px;
+}
+footer{
+  text-align: center;
+  margin-bottom: 10px;
+}
